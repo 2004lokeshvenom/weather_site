@@ -20,3 +20,5 @@ A simple, space-themed weather application that provides real-time forecasts wit
 * OpenWeatherMap API
 
 ---END---
+
+For DEPLOYEMENT CHECK THIS LINK https://68e0d9ad3b140cb2c6f4773e--glistening-cranachan-ce097d.netlify.app/
